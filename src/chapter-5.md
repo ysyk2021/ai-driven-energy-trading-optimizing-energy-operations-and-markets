@@ -1,5 +1,3 @@
-Chapter 5: Improving Risk Management and Compliance with AI
-===========================================================
 
 AI has the potential to revolutionize risk management and compliance in energy trading by providing real-time data analysis, identifying emerging risks, and automating regulatory reporting. In this chapter, we'll explore the benefits of using AI for risk management and compliance in energy trading.
 

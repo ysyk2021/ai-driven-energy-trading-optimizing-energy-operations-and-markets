@@ -1,5 +1,3 @@
-Unlocking New Opportunities with AI
-============================================================================================================
 
 As the energy industry continues to evolve, the potential applications of AI in energy trading are expanding rapidly. In this chapter, we will discuss how AI can unlock new opportunities for energy companies.
 

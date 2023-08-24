@@ -1,5 +1,3 @@
-Understanding the Role of AI in Energy Trading
-===================================================================================================
 
 Artificial intelligence (AI) is revolutionizing the energy industry, transforming the way companies trade and manage energy. In this chapter, we will discuss the role of AI in energy trading.
 

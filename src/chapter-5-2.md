@@ -1,5 +1,3 @@
-Automated Regulatory Compliance and Reporting using AI
-===================================================================================================================
 
 Risk management and compliance are critical aspects of energy trading. In this chapter, we explore how AI can be used to improve risk management and compliance, including automated regulatory compliance and reporting.
 

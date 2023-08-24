@@ -1,5 +1,3 @@
-Selecting the Right Tools for Your Energy Trading Needs
-=======================================================================================================================
 
 Implementing artificial intelligence (AI) in energy trading requires access to the right tools and technologies. However, with so many options available, it can be challenging to determine which tools are best suited to your specific energy trading needs. In this chapter, we will discuss how to select the right tools for your energy trading needs.
 

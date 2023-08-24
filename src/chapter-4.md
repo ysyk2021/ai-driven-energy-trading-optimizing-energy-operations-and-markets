@@ -1,5 +1,3 @@
-Chapter 4: Enhancing Energy Asset Management with AI
-====================================================
 
 As the energy industry continues to evolve, companies are looking for ways to more efficiently manage their assets and optimize their operations. One way this is being achieved is through the use of artificial intelligence (AI). In this chapter, we will explore two key applications of AI in energy asset management: AI-powered asset performance monitoring and maintenance, and automated energy trading and portfolio optimization.
 

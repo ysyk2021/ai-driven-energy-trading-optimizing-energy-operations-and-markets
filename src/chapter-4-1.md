@@ -1,5 +1,3 @@
-AI-Powered Asset Performance Monitoring and Maintenance
-=============================================================================================================
 
 Effective asset management is critical to the success of any energy company. However, traditional approaches to asset monitoring and maintenance can be time-consuming and costly. By contrast, AI-powered asset performance monitoring and maintenance uses real-time data and machine learning algorithms to identify issues as they occur and predict when maintenance will be required.
 

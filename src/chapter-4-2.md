@@ -1,5 +1,3 @@
-Automated Energy Trading and Portfolio Optimization using AI
-==================================================================================================================
 
 Energy asset management is a critical aspect of optimizing energy operations and markets. In this chapter, we explore how AI can be used to enhance energy asset management, including automated energy trading and portfolio optimization.
 

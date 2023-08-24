@@ -1,5 +1,3 @@
-AI-Driven Risk Assessment and Management
-=====================================================================================================
 
 Risk management is a critical aspect of energy trading. In this chapter, we explore how AI can be used to improve risk assessment and management in energy trading.
 

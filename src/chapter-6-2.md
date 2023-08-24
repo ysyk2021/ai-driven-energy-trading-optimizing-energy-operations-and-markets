@@ -1,5 +1,3 @@
-Mitigating Risks and Ensuring Compliance
-=========================================================================================================
 
 Artificial intelligence (AI) is becoming increasingly prevalent in the energy trading industry. However, the use of AI in this field also presents ethical and bias risks that need to be managed effectively. In this chapter, we will discuss strategies to mitigate these risks and ensure compliance with ethical and legal guidelines.
 
